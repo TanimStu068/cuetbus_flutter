@@ -1,16 +1,48 @@
-# cuetbus
+# CUETBus Flutter App
 
-A new Flutter project.
+CUETBus is a comprehensive mobile application designed to help **CUET students** manage their transportation efficiently. The app provides real-time bus tracking, digital pass management, booking confirmations, and various other features to enhance the campus commuting experience. With a sleek design and support for **dark/light mode**, CUETBus ensures an intuitive and user-friendly experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Authentication**
+  - Login
+  - Sign Up
+  - Forgot Password
+  - Change Password
+  - Delete Account
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Bus Booking & Management**
+  - Seat Selection
+  - Booking Confirmation
+  - Booking Details
+  - Digital Pass
+  - Bus List
+  - Bus Schedule
+  - Bus Details
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **User Profile & Settings**
+  - Profile Management
+  - Dark/Light Mode
+  - Settings
+
+- **Communication & Notifications**
+  - Real-time Notifications
+  - Help & Support
+  - Privacy Policy
+  - Terms and Conditions
+  - Service Updates
+
+- **Campus Features**
+  - Home Dashboard
+  - Lost and Found
+  - Safety Tips
+
+---
+
+## 🛠 Installation
+
+1. Clone the repository:  
+```bash
+git clone https://github.com/<your-username>/cuetbus_flutter.git
