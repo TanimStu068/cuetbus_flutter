@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343094437840",
+    "project_id": "cuet-bus-ec4aa",
+    "storage_bucket": "cuet-bus-ec4aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343094437840:android:f5267b3fe18c672274bbd5",
+        "android_client_info": {
+          "package_name": "com.example.cuetbus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhdBsmi82nKyqk46q1qfknznbPeTDbhvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

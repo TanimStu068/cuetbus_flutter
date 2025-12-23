@@ -1,0 +1,194 @@
+[
+  {
+    "busNo": "যমুনা",
+    "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা — বহদ্দরহাট — মুরাদপুর — ২ নং গেইট — জিইসি — দেওয়ান হাট — রেলস্টেশন",
+    "capacity": 45,
+    "amenities": ["wifi", "ac", "charging"],
+    "driver_name": "Abdul Karim",
+    "driver_phone": "01711-234567",
+    "trips": {
+      "morning_start": "5:40 AM",
+      "morning_return": "8:00 AM",
+      "noon_start": "1:45 PM",
+      "noon_route": "চুয়েট — কুয়াইশ — রাস্তারমাথা",
+      "evening_start": "4:45 PM",
+      "evening_return": "10:30 PM"
+    }
+  },
+  {
+    "busNo": "রূপসা",
+    "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা — বহদ্দরহাট — মুরাদপুর — ২ নং গেইট — জিইসি — দেওয়ান হাট — রেলস্টেশন",
+    "capacity": 45,
+    "amenities": ["wifi", "ac", "charging"],
+    "driver_name": "Nazmul Huda",
+    "driver_phone": "01718-556677",
+    "trips": {
+      "morning_start": "5:40 AM",
+      "morning_return": "8:00 AM",
+      "noon_start": "1:45 PM",
+      "noon_route": "চুয়েট — কুয়াইশ — রাস্তারমাথা",
+      "evening_start": "4:45 PM",
+      "evening_return": "10:30 PM"
+    }
+  },
+  {
+    "busNo": "সাঙ্গু",
+    "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা — বহদ্দরহাট — মুরাদপুর — ২ নং গেইট — জিইসি — দেওয়ান হাট — রেলস্টেশন",
+    "capacity": 45,
+    "amenities": ["wifi", "ac", "charging"],
+    "driver_name": "Habibur Rahman",
+    "driver_phone": "01822-334455",
+    "trips": {
+      "morning_start": "5:40 AM",
+      "morning_return": "8:00 AM",
+      "noon_start": "1:45 PM",
+      "noon_route": "চুয়েট — কুয়াইশ — রাস্তারমাথা",
+      "evening_start": "4:45 PM",
+      "evening_return": "10:30 PM"
+    }
+  },
+  {
+    "busNo": "বুড়িগঙ্গা",
+    "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা — বহদ্দরহাট — মুরাদপুর — ২ নং গেইট — জিইসি — দেওয়ান হাট — রেলস্টেশন",
+    "capacity": 45,
+    "amenities": ["wifi", "ac", "charging"],
+    "driver_name": "Mahfuz Alam",
+    "driver_phone": "01633-998877",
+    "trips": {
+      "morning_start": "5:40 AM",
+      "morning_return": "8:00 AM",
+      "noon_start": "1:45 PM",
+      "noon_route": "চুয়েট — কুয়াইশ — রাস্তারমাথা",
+      "evening_start": "4:45 PM",
+      "evening_return": "10:30 PM"
+    }
+  },
+  {
+    "busNo": "পদ্মা",
+    "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা — বহদ্দরহাট — মুরাদপুর — ২ নং গেইট — জিইসি — দেওয়ান হাট — রেলস্টেশন",
+    "capacity": 45,
+    "amenities": ["wifi", "ac", "charging"],
+    "driver_name": "Shafayet Ullah",
+    "driver_phone": "01917-445522",
+    "trips": {
+      "morning_start": "5:40 AM",
+      "morning_return": "8:30 AM",
+      "noon_start": "1:45 PM",
+      "noon_route": "চুয়েট — কুয়াইশ — রাস্তারমাথা",
+      "evening_start": "4:45 PM",
+      "evening_return": "10:30 PM"
+    }
+  },
+  {
+    "busNo": "ইছামতি",
+    "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা — বহদ্দরহাট — মুরাদপুর — ২ নং গেইট — জিইসি — দেওয়ান হাট — রেলস্টেশন",
+    "capacity": 45,
+    "amenities": ["wifi", "ac", "charging"],
+    "driver_name": "Faruk Ahmed",
+    "driver_phone": "01521-667788",
+    "trips": {
+      "morning_start": "5:40 AM",
+      "morning_return": "8:30 AM",
+      "noon_start": "1:45 PM",
+      "noon_route": "চুয়েট — কুয়াইশ — রাস্তারমাথা",
+      "evening_start": "4:45 PM",
+      "evening_return": "10:30 PM"
+    }
+  },
+  {
+    "busNo": "তিস্তা",
+    "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা — বহদ্দরহাট — মুরাদপুর — ২ নং গেইট — জিইসি — দেওয়ান হাট — রেলস্টেশন",
+    "capacity": 45,
+    "amenities": ["wifi", "ac", "charging"],
+    "driver_name": "Jalal Uddin",
+    "driver_phone": "01744-889900",
+    "trips": {
+      "morning_start": "5:40 AM",
+      "morning_return": "8:30 AM",
+      "noon_start": "1:45 PM",
+      "noon_route": "চুয়েট — কুয়াইশ — রাস্তারমাথা",
+      "evening_start": "4:45 PM",
+      "evening_return": "10:30 PM"
+    }
+  },
+  {
+    "busNo": "হালদা",
+    "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা — বহদ্দরহাট — মুরাদপুর — ২ নং গেইট — জিইসি — দেওয়ান হাট — রেলস্টেশন",
+    "capacity": 45,
+    "amenities": ["wifi", "ac", "charging"],
+    "driver_name": "Rashid Khan",
+    "driver_phone": "01890-113355",
+    "trips": {
+      "morning_start": "5:40 AM",
+      "morning_return": "8:30 AM",
+      "noon_start": "1:45 PM",
+      "noon_route": "চুয়েট — কুয়াইশ — রাস্তারমাথা",
+      "evening_start": "4:45 PM",
+      "evening_return": "10:30 PM"
+    }
+  },
+  {
+    "busNo": "বিআরটিসি ১",
+    "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা — বহদ্দরহাট — মুরাদপুর — ২ নং গেইট — জিইসি — দেওয়ান হাট — রেলস্টেশন",
+    "capacity": 50,
+    "amenities": ["wifi", "ac", "charging"],
+    "driver_name": "Kamal Uddin",
+    "driver_phone": "01712-556644",
+    "trips": {
+      "morning_start": "5:40 AM",
+      "morning_return": "8:30 AM",
+      "noon_start": "1:45 PM",
+      "noon_route": "চুয়েট — কুয়াইশ — রাস্তারমাথা",
+      "evening_start": "4:45 PM",
+      "evening_return": "10:30 PM"
+    }
+  },
+  {
+    "busNo": "বিআরটিসি ২",
+    "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা — বহদ্দরহাট — মুরাদপুর — ২ নং গেইট — জিইসি — দেওয়ান হাট — রেলস্টেশন",
+    "capacity": 50,
+    "amenities": ["wifi", "ac", "charging"],
+    "driver_name": "Shahidul Islam",
+    "driver_phone": "01615-776655",
+    "trips": {
+      "morning_start": "5:40 AM",
+      "morning_return": "8:30 AM",
+      "noon_start": "1:45 PM",
+      "noon_route": "চুয়েট — কুয়াইশ — রাস্তারমাথা",
+      "evening_start": "4:45 PM",
+      "evening_return": "10:30 PM"
+    }
+  },
+  {
+    "busNo": "গোমতি",
+    "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা — বহদ্দরহাট — মুরাদপুর — ২ নং গেইট — জিইসি — দেওয়ান হাট — রেলস্টেশন",
+    "capacity": 45,
+    "amenities": ["wifi", "ac", "charging"],
+    "driver_name": "Shamim Hasan",
+    "driver_phone": "01531-445599",
+    "trips": {
+      "morning_start": "5:40 AM",
+      "morning_return": "8:30 AM",
+      "noon_start": "1:45 PM",
+      "noon_route": "চুয়েট — কুয়াইশ — রাস্তারমাথা",
+      "evening_start": "4:45 PM",
+      "evening_return": "10:30 PM"
+    }
+  },
+  {
+    "busNo": "তুরাগ",
+    "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা — বহদ্দরহাট — মুরাদপুর — ২ নং গেইট — জিইসি — দেওয়ান হাট — রেলস্টেশন",
+    "capacity": 45,
+    "amenities": ["wifi", "ac", "charging"],
+    "driver_name": "Asadul Karim",
+    "driver_phone": "01755-224466",
+    "trips": {
+      "morning_start": "5:40 AM",
+      "morning_return": "8:30 AM",
+      "noon_start": "1:45 PM",
+      "noon_route": "চুয়েট — কুয়াইশ — রাস্তারমাথা",
+      "evening_start": "4:45 PM",
+      "evening_return": "10:30 PM"
+    }
+  }
+]
