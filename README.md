@@ -1,5 +1,8 @@
 # CUETBus Flutter App
 
+![App Logo](assets/icons/app_icon.png)  
+
+
 CUETBus is a comprehensive mobile application designed to help **CUET students** manage their transportation efficiently. The app provides real-time bus tracking, digital pass management, booking confirmations, and various other features to enhance the campus commuting experience. With a sleek design and support for **dark/light mode**, CUETBus ensures an intuitive and user-friendly experience.
 
 ---
