@@ -44,8 +44,9 @@ CUETBus is a comprehensive mobile application designed to help **CUET students**
 
 ---
 
-## 🛠 Installation
+screenshots 
 
-1. Clone the repository:  
-```bash
-git clone https://github.com/<your-username>/cuetbus_flutter.git
+![image1](cuetbusimage3.png)
+![image2](cuetbusimage4.png)
+![image3](cuetbusimage1.png)
+![image4](cuetbusimage2.png)
