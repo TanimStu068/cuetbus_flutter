@@ -50,3 +50,12 @@ screenshots
 ![image2](cuetbusimage4.png)
 ![image3](cuetbusimage1.png)
 ![image4](cuetbusimage2.png)
+
+
+## 📄 License
+
+Copyright © 2026 Tanim Mahmud. All rights reserved.
+
+This repository is publicly available for viewing and portfolio purposes.
+The source code may not be copied, modified, distributed, or reused
+without prior written permission.
